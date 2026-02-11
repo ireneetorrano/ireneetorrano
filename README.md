@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Irene Hernández Torrano
 
-💻 Desarrolladora web en formación (DAW)  
+### 💻 Desarrolladora web en formación   
 🎨 Apasionada por el diseño, el desarrollo front-end y la creación de experiencias digitales limpias y funcionales. 
 
 ⚡Actualmente he conseguido un puesto para realizar la FCT, en la red internacional inmobiliaria [REMAX](https://www.remax.pt/pt) en Lisboa, donde podre aprender de un equipo profesional y demostrar mi pasión por el desarrollo web
