@@ -41,7 +41,8 @@ Proyecto Full Stack DAW, proyecto en el que ataco una API de paises de los disti
 ## 🎯 Objetivo profesional
 
 Seguir creciendo como desarrolladora web, aprender nuevas tecnologías diariamente y seguir formandome en la universidad 👩‍🎓.
-Actualmente he conseguido mi primer puesto de practicas en la red internacional inmobiliaria [REMAX](https://www.remax.pt/pt) en Lisboa, donde podre aprender de un equipo profesional y demostrar mi pasión por el desarrollo web
+
+⚡Actualmente he conseguido mi primer puesto de practicas en la red internacional inmobiliaria [REMAX](https://www.remax.pt/pt) en Lisboa, donde podre aprender de un equipo profesional y demostrar mi pasión por el desarrollo web
 
 ---
 
