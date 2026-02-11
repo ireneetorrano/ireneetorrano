@@ -3,8 +3,7 @@
 💻 Desarrolladora web en formación (DAW)  
 🎨 Apasionada por el diseño, el desarrollo front-end y la creación de experiencias digitales limpias y funcionales.
 
-Actualmente estoy formándome en desarrollo web y construyendo proyectos para mejorar mis habilidades tanto en front-end como en back-end.
-
+⚡Actualmente he conseguido mi primer puesto de practicas en la red internacional inmobiliaria [REMAX](https://www.remax.pt/pt) en Lisboa, donde podre aprender de un equipo profesional y demostrar mi pasión por el desarrollo web
 ---
 
 ## 🚀 Tecnologías que utilizo
@@ -42,7 +41,7 @@ Proyecto Full Stack DAW, proyecto en el que ataco una API de paises de los disti
 
 Seguir creciendo como desarrolladora web, aprender nuevas tecnologías diariamente y seguir formandome en la universidad 👩‍🎓.
 
-⚡Actualmente he conseguido mi primer puesto de practicas en la red internacional inmobiliaria [REMAX](https://www.remax.pt/pt) en Lisboa, donde podre aprender de un equipo profesional y demostrar mi pasión por el desarrollo web
+
 
 ---
 
