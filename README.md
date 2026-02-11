@@ -38,17 +38,9 @@ Proyecto Full Stack DAW, proyecto en el que ataco una API de paises de los disti
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ireneetorrano&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ireneetorrano&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Objetivo profesional
 
-Seguir creciendo como desarrolladora web, aprender nuevas tecnologías diariamente y seguir formandome sobre esta rama en la universidad 👩‍🎓.
+Seguir creciendo como desarrolladora web, aprender nuevas tecnologías diariamente y seguir formandome en la universidad 👩‍🎓.
 
 ---
 
