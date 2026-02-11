@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Irene Torrano
+# ¡Hola! 👋 Soy Irene Hernández Torrano
 
 💻 Desarrolladora web en formación (DAW)  
 🎨 Apasionada por el diseño, el desarrollo front-end y la creación de experiencias digitales limpias y funcionales.
@@ -21,18 +21,20 @@ Actualmente estoy formándome en desarrollo web y construyendo proyectos para me
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)
 
+
+## 💻 Sistemas Operativos
+
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ---
 
 ## 📂 Proyectos destacados
 
-🔹 **Pokédex App**  
-Aplicación conectada a una API pública de Pokémon usando JavaScript, HTML y CSS.
+🔹 **WeatherApp** ☀️ 
+Aplicación conectada a una API pública del tiempo meteorologico en Angular, atacando backend con PHP, HTML y CSS.<!--Enlace web desplegada con Github, proximamente... -->
 
-🔹 **CRUD con PHP y MySQL**  
-Sistema básico de gestión con base de datos relacional.
-
-🔹 **Proyecto Full Stack DAW**  
-Aplicación web con front-end y back-end integrados.
+🔹 **Wish2GO** 🗺️ 
+Proyecto Full Stack DAW, proyecto en el que ataco una API de paises de los distintos continentes, para poder hacer tu lsita de viajes deseados,una web con front-end y back-end integrados.<!--Enlace web desplegada con Github, proximamente... -->
 
 ---
 
@@ -46,14 +48,15 @@ Aplicación web con front-end y back-end integrados.
 
 ## 🎯 Objetivo profesional
 
-Seguir creciendo como desarrolladora web, aprender nuevas tecnologías y conseguir mi primera oportunidad profesional en el sector IT.
+Seguir creciendo como desarrolladora web, aprender nuevas tecnologías diariamente y seguir formandome sobre esta rama en la universidad 👩‍🎓.
 
 ---
 
 ## 📫 Contacto
-
-📧 TuEmailAqui  
-💼 LinkedIn: (añadir enlace)
+📍 Murcia
+🔗 [LinkedIn: ireneetorrano](https://www.linkedin.com/in/irene-hern%C3%A1ndez-torrano-902553271/)  <!-- | Enlace PORFOLIO desplegado con Github, proximamente... -->
+📧 irene.vtorrano@gmail.com  
+ 
 
 <!--
 **ireneetorrano/ireneetorrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
