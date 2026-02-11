@@ -30,10 +30,10 @@ Actualmente estoy formándome en desarrollo web y construyendo proyectos para me
 
 ## 📂 Proyectos destacados
 
-🔹 **WeatherApp** ☀️ 
+☀️ **WeatherApp**  
 Aplicación conectada a una API pública del tiempo meteorologico en Angular, atacando backend con PHP, HTML y CSS.<!--Enlace web desplegada con Github, proximamente... -->
 
-🔹 **Wish2GO** 🗺️ 
+🗺️ **Wish2GO**  
 Proyecto Full Stack DAW, proyecto en el que ataco una API de paises de los distintos continentes, para poder hacer tu lsita de viajes deseados,una web con front-end y back-end integrados.<!--Enlace web desplegada con Github, proximamente... -->
 
 ---
