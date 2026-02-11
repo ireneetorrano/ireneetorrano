@@ -5,7 +5,7 @@
 
 ⚡Actualmente he conseguido un puesto para realizar la FCT, en la red internacional inmobiliaria [REMAX](https://www.remax.pt/pt) en Lisboa, donde podreé aprender de un equipo profesional y demostrar mi pasión por el desarrollo web
 
----
+
 
 ## 🚀 Tecnologías que utilizo
 
@@ -35,7 +35,7 @@ Aplicación conectada a una API pública del tiempo meteorologico en Angular, at
 🗺️ **Wish2GO**  
 Proyecto Full Stack DAW, proyecto en el que ataco una API de paises de los distintos continentes, para poder hacer tu lsita de viajes deseados,una web con front-end y back-end integrados.<!--Enlace web desplegada con Github, proximamente... -->
 
----
+
 
 ## 🎯 Objetivo profesional
 
@@ -43,7 +43,7 @@ Seguir creciendo como desarrolladora web, aprender nuevas tecnologías diariamen
 
 
 
----
+
 
 ## 📫 Contacto
 📍 Murcia
