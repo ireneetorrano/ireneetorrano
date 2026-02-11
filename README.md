@@ -46,7 +46,9 @@ Seguir creciendo como desarrolladora web, aprender nuevas tecnologías diariamen
 
 ## 📫 Contacto
 📍 Murcia
-🔗 [LinkedIn: ireneetorrano](https://www.linkedin.com/in/irene-hern%C3%A1ndez-torrano-902553271/)  <!-- | Enlace PORFOLIO desplegado con Github, proximamente... -->
+
+🔗 [LinkedIn: ireneetorrano](https://www.linkedin.com/in/irene-hern%C3%A1ndez-torrano-902553271/)  <!-- | • Enlace PORFOLIO desplegado con Github, proximamente... -->
+
 📧 irene.vtorrano@gmail.com  
  
 
