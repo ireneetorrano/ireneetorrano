@@ -41,15 +41,16 @@ Proyecto Full Stack DAW, proyecto en el que ataco una API de paises de los disti
 ## 🎯 Objetivo profesional
 
 Seguir creciendo como desarrolladora web, aprender nuevas tecnologías diariamente y seguir formandome en la universidad 👩‍🎓.
+Actualmente he conseguido mi primer puesto de practicas en la red internacional inmobiliaria [REMAX](https://www.remax.pt/pt) en Lisboa, donde podre aprender de un equipo profesional y demostrar mi pasión por el desarrollo web
 
 ---
 
 ## 📫 Contacto
 📍 Murcia
 
-🔗 [LinkedIn: ireneetorrano](https://www.linkedin.com/in/irene-hern%C3%A1ndez-torrano-902553271/)  <!-- | • Enlace PORFOLIO desplegado con Github, proximamente... -->
+🔗 [LinkedIn](https://www.linkedin.com/in/irene-hern%C3%A1ndez-torrano-902553271/)  <!-- | Enlace PORFOLIO desplegado con Github, proximamente... -->• 📧 irene.vtorrano@gmail.com  
 
-📧 irene.vtorrano@gmail.com  
+ 
  
 
 <!--
